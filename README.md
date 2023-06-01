@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Maharnab Saikia</h1>
-<h3 align="center">I'm a computer science enthusiast with a passion for AI development. Currently in the process of learning and exploring the exciting field of artificial intelligence, I'm fascinated by its endless possibilities.</h3>
+<h3 align="center">I'm a computer science enthusiast with a strong passion for AI development. As I navigate through the exciting field of artificial intelligence, I find myself captivated by its endless possibilities. Currently in the process of learning and exploring various AI concepts, I'm committed to expanding my knowledge and skills. Through my GitHub projects, I aim to showcase my progress and share my enthusiasm for AI. I welcome collaboration and feedback from the vibrant developer community. Feel free to modify it according to your preferences and experiences.</h3>
+
+- 🌱 I’m currently learning **PyTorch**
+
+- 📝 I sometimes write articles on [https://defalt.vercel.app/](https://defalt.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/https://defalt.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://defalt.vercel.app/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
