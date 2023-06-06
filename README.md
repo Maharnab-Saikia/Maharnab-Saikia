@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maharnab Saikia</h1>
-<h3 align="center">I'm a computer science enthusiast with a strong passion for AI development. As I navigate through the exciting field of artificial intelligence, I find myself captivated by its endless possibilities. Currently, I am in the process of learning and exploring various AI concepts, and I am committed to expanding my knowledge and skills. Through my GitHub projects, I aim to showcase my progress and share my enthusiasm for AI. I welcome collaboration and feedback from the vibrant developer community. Feel free to modify it according to your preferences and experiences.</h3>
+<h3 align="center">Welcome to my GitHub repository! This is a space where I share my passion for computer technology and all things related. Whether you're a fellow computer enthusiast, a developer, or someone who simply loves exploring the fascinating world of computers, you've come to the right place. I welcome collaboration and feedback from the vibrant developer community. Feel free to modify it according to your preferences and experiences.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
