@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maharnabsaikia@gmail.com" alt="Email" />
   </a>
   <a href="https://defalt.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-lightgrey?style=flat-square&logo=vercel&logoColor=white&link=https://defalt.vercel.app/" alt="Website" />
+    <img src="https://img.shields.io/badge/-Website-lightgrey?style=flat-square&logo=vercel&logoColor=white&link=https://thequantumcogitation.vercel.app/" alt="Website" />
   </a>
 </p>
   
