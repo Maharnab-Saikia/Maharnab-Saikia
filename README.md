@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Maharnab Saikia</h1>
-<p align="center">I'm a computer enthusiast and ambitious computer programmer. I've lots of interest in AI & Cryptocurrency. This is where I share my passion for computer technology and everything related. Whether you're a fellow computer enthusiast, a developer, or simply someone who loves exploring the fascinating world of computers, you've come to the right place. I value collaboration and feedback from the vibrant developer community. Feel free to connect with me and explore my repositories.</p>
+<p align="center">I'm a computer science enthusiast and ambitious computer programmer. I've lots of interest in AI & ML. This is where I share my passion for computer technology and everything related. Whether you're a fellow computer enthusiast, a developer, or simply someone who loves exploring the fascinating world of computers, you've come to the right place. I value collaboration and feedback from the vibrant developer community. Feel free to connect with me and explore my repositories.</p>
 
 ## 🔥 Github Stats
 <img align="right" width="47%" src="https://i.imgur.com/C1kWoWh.jpeg"/>
