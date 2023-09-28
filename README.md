@@ -9,12 +9,10 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="Javascript"/>
 </p>
 
 <h3 align="left">Back-end:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/expressjs-black?style=for-the-badge&logo=express" alt="Express.js" />
   <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask" alt="Flask" />
 </p>
 
@@ -27,6 +25,7 @@
 <h3 align="left">Machine Learning:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow" alt="Tensorflow" />
+  <img src="https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch" alt="Pytorch" />
 </p>
   
 <h3 align="left">Connect with me:</h3>
