@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Maharnab Saikia</h1>
-<p align="center">I'm a computer science enthusiast and ambitious computer programmer. I've lots of interest in ML & DL. I value any feedback from the vibrant developer community. Feel free to connect with me and explore my repositories.</p>
+<p align="center">I'm an ambitious computer programmer. I have a lot of interest in ML & DL fields, especially in Reinforcement Learning and Computer Vision. I value any feedback from the vibrant developer community. Feel free to connect with me and explore my repositories.</p>
 
 ## 🔥 Github Stats
 <img align="right" width="47%" src="https://i.imgur.com/C1kWoWh.jpeg"/>
