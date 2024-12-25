@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Maharnab Saikia</h1>
-<p align="center">I am a computer programmer with a strong passion for machine learning and deep learning, particularly in the areas of reinforcement learning and computer vision. I love learning from other devs and getting feedback on my work. Feel free to check out my projects and share your thoughts!</p>
+<p align="center">I am a computer programmer passionate about machine learning and deep learning, with a focus on reinforcement learning and computer vision. I enjoy learning from other developers and value feedback on my work. Feel free to check out my projects and share your thoughts!</p>
 
 ## 🔥 Github Stats
 <img align="right" width="47%" src="https://i.imgur.com/C1kWoWh.jpeg"/>
