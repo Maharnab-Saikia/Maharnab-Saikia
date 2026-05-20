@@ -3,4 +3,4 @@
 
 ## 🔥 Github Stats
 <img align="right" width="24%" src="https://i.imgur.com/C1kWoWh.jpeg"/>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Maharnab-Saikia&show_icons=true&theme=radical&rank_icon=github">
+<img width="50%" src="https://github-readme-stats-fast.vercel.app/api?username=Maharnab-Saikia&show_icons=true&theme=radical&rank_icon=github">
